@@ -14,3 +14,10 @@ Create a class named Circle with one data member: radius.
 Add a method named calculateArea() that returns the area of the circle (use the formula π × r 
 × r, and define π as 3.14). 
 In the main() function, create a Circle object, set its radius, and display the area. 
+# task_4
+Create a class named Temperature with one data member: celsius. 
+Add two methods: 
+• toFahrenheit() → converts Celsius to Fahrenheit using the formula F = (C × 9/5) + 32. 
+• toKelvin() → converts Celsius to Kelvin using the formula K = C + 273.15. 
+In the main() function, create an object, assign a Celsius value, and display both 
+conversions. 
