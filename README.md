@@ -21,3 +21,8 @@ Add two methods:
 • toKelvin() → converts Celsius to Kelvin using the formula K = C + 273.15. 
 In the main() function, create an object, assign a Celsius value, and display both 
 conversions. 
+# task_5
+Create a class named Student with three data members: name, grades[3], and average. 
+Add a method named calculateAverage() that computes the average of the three grades. 
+In the main() function, assign values to the grades and print the calculated average for the 
+student.
